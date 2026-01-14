@@ -6,7 +6,8 @@ It showcases my skills, featured projects, and frontend development capabilities
 ---
 
 ## 🔗 Live Demo
-👉 https://username.github.io/portfolio-landing/
+👉 [https://username.github.io/portfolio-landing/](https://creativeshailendra-dev.github.io/landing-page/
+)
 
 ---
 
